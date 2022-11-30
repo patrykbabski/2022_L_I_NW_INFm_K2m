@@ -8,10 +8,7 @@ jobs:
 
     machine: 
 
-      image: ubuntu-2004:202104-01 
-
-        
-
+      image: ubuntu-2004:202104-01      
     steps: 
 
       - checkout 
